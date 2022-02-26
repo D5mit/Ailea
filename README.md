@@ -1,1 +1,5 @@
-# ailea
+# Ailea
+
+## Packages
+- pip install chatterbot
+- 
