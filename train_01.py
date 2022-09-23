@@ -1,8 +1,4 @@
 
-
-import time
-
-
 from chatterbot import ChatBot
 chatbot = ChatBot("ailea")
 
